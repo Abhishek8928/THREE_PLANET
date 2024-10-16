@@ -1,0 +1,23 @@
+
+@font-face {
+  font-family:'NeueMachina' ;
+  src: url(./font/NeueMacina.ttf);
+}
+@font-face {
+  font-family:'SatoshiVariable' ;
+  src: url(./font/SatoshiVariable.ttf);
+}
+
+*{
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+.font-neue{
+  font-family: 'NeueMachina';
+}
+
+.font-satoshi{
+  font-family: 'SatoshiVariable';
+}
